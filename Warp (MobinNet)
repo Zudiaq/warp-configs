@@ -4,7 +4,7 @@
 //support-url: https://t.me/hiddify
 //profile-web-page-url: https://hiddify.com
 
-warp://162.159.192.17:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#MobinNet-1
-warp://162.159.192.63:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#MobinNet-2
-warp://162.159.192.17:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://162.159.192.63:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#WIW1-MobinNet
-warp://188.114.97.88:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://188.114.96.66:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#WIW2-MobinNet
+warp://162.159.192.63:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#MobinNet-1
+warp://162.159.192.17:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#MobinNet-2&&detour=warp://162.159.192.63:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#WIW1-MobinNet
+warp://188.114.96.66:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#MobinNet-3
+warp://188.114.97.88:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#MobinNet-4&&detour=warp://188.114.96.66:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#WIW2-MobinNet
