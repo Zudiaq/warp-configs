@@ -8,12 +8,12 @@ warp://188.114.98.207:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Rightel-1
 warp://188.114.99.206:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Rightel-2
 warp://188.114.96.133:8886?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Rightel-3
 warp://188.114.98.169:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Rightel-4
-warp://188.114.98.207:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://188.114.99.206:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Warp-In-Warp 1 (Rightel)
-warp://188.114.96.133:8886?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp:/188.114.98.169:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Warp-In-Warp 1 (Rightel)
+warp://188.114.98.207:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://188.114.99.206:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#WIW1 Rightel
+warp://188.114.96.133:8886?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp:/188.114.98.169:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#WIW2 Rightel
 
 warp://162.159.192.17:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#MobinNet-1
 warp://162.159.192.63:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#MobinNet-2
 warp://188.114.97.88:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#MobinNet-3
 warp://188.114.96.66:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#MobinNet-4
-warp://162.159.192.17:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://162.159.192.63:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Warp-In-Warp 1 (MobinNet)
-warp://188.114.97.88:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://188.114.96.66:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Warp-In-Warp 2 (MobinNet)
+warp://162.159.192.17:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://162.159.192.63:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#WIW1 MobinNet
+warp://188.114.97.88:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://188.114.96.66:7103?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#WIW2 MobinNet
