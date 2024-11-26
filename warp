@@ -7,4 +7,4 @@
 warp://188.114.98.207:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#M4-1
 warp://188.114.99.206:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#M4-2
 
-warp://188.114.98.207:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4-1&&detour=warp://188.114.99.206:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Warp-In-Warp
+warp://188.114.98.207:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://188.114.99.206:891?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Warp-In-Warp
